@@ -1,4 +1,0 @@
-Команды для Активации windows 10
-slmgr /skms kms.digiboy.ir
-slmgr /ato
- 
